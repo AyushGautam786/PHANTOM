@@ -1,0 +1,12 @@
+google-generativeai
+chromadb
+python-nmap
+semgrep
+bandit
+requests
+python-dotenv
+fastapi
+uvicorn
+rich
+flask==2.3.0
+shodan
